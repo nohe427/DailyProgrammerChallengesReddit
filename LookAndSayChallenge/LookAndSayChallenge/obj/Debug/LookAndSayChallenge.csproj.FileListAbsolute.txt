@@ -1,1 +1,9 @@
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.LookNSay.resources
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.Properties.Resources.resources
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.csproj.GenerateResource.Cache
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.csprojResolveAssemblyReference.cache
 C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\bin\Debug\LookAndSayChallenge.exe.config
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\bin\Debug\LookAndSayChallenge.exe
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\bin\Debug\LookAndSayChallenge.pdb
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.exe
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\obj\Debug\LookAndSayChallenge.pdb
