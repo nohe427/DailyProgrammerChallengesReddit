@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,23 +34,18 @@ namespace LookAndSayChallenge
             int i = 0;
             while (i <= Iterations)
             {
+            	nextLine = "";
                 if (i == 0)
                 {
                     int numberOfChar = firstLine.Count();
                     for (int z = 0; z < numberOfChar; z++)
                     {
-                        if (numCount.ContainsKey(firstLine[z]) == false)
+                        if(firstLine[z] == firstLine[Z+1])
                         {
-                            numCount.Add(firstLine[z], 1);
-                        }
-                        else 
-                        { 
-                             int x = numCount[firstLine[z]];
-                             x += 1;
-                             numCount[firstLine[z]] = x;
+                        	
                         }
                     }
-                    nextLine = "";
+                    
                 }
                 else
                 {
