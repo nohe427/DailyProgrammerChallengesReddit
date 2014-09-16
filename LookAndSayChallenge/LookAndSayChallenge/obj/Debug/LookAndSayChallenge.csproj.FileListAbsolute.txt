@@ -1,0 +1,1 @@
+C:\Users\AlexanderDT\Documents\GitHub\DailyProgrammerChallengesReddit\LookAndSayChallenge\LookAndSayChallenge\bin\Debug\LookAndSayChallenge.exe.config
